@@ -16,7 +16,7 @@ Ele fornece uma breve descrição da atividade a ser executada sendo a listagem 
 ---
 ## ⚙Sobre
 
-Projeto trata de um aplicativo simples de listagem de tarefas onde a inserção de novas tarefas e a exclusão podem ser feitas na mesma tela. Onde o principal objetivo era a prátrica dos fundamentos do react native do curso da Rocketseat.
+Projeto trata de um aplicativo simples de listagem de tarefas onde a inserção de novas tarefas e a exclusão podem ser feitas na mesma tela. Onde o principal objetivo era a prática dos fundamentos do React native do curso da Rocketseat.
 
 ---
 
