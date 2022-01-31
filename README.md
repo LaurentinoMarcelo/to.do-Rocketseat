@@ -1,5 +1,5 @@
 # to.do-Rocketseat
-## O to.do é uma ótima alternativa para a listagem de atividades que precisam ser realizadas.. 
+## O to.do é uma ótima alternativa para a listagem de atividades que precisam ser realizadas.
 Ele fornece uma breve descrição da atividade a ser executada sendo a listagem exibida na ordem de criação.
 
 <h1 align="center">
@@ -16,8 +16,7 @@ Ele fornece uma breve descrição da atividade a ser executada sendo a listagem 
 ---
 ## ⚙Sobre
 
-Projeto trata de um aplicativo simples de listagem de tarefas onde a inserção de novas tarefas e a exclusão podem ser feitas na mesma tela. Onde
-o principal objetivo era a prátrica dos fundamentos do react native do curso da Rocketseat.
+Projeto trata de um aplicativo simples de listagem de tarefas onde a inserção de novas tarefas e a exclusão podem ser feitas na mesma tela. Onde o principal objetivo era a prátrica dos fundamentos do react native do curso da Rocketseat.
 
 ---
 
